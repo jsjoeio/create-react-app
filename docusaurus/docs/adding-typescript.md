@@ -13,9 +13,11 @@ To start a new Create React App project with [TypeScript](https://www.typescript
 
 ```sh
 npx create-react-app my-app --template typescript
+```
 
-# or
+or
 
+```sh
 yarn create react-app my-app --template typescript
 ```
 
